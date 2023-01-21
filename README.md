@@ -59,7 +59,6 @@ and in terminal
 ``` 
 cd solove
 npm install
-npm install 
 npm install connectkit wagmi ethers
 ``` 
 
